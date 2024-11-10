@@ -1,1 +1,3 @@
-export const keys = {};
+export const keys = {
+  users: 'users',
+};

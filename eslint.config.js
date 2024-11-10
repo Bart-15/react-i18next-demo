@@ -31,6 +31,7 @@ export default tseslint.config(
       'simple-import-sort/exports': 'error',
       'sort-imports': 'off',
       'import/order': 'off',
+      'import/extensions': 'off',
       'import/prefer-default-export': 0,
       'import/no-extraneous-dependencies': 0, //Disable the rule
       'import/no-unresolved': 0,

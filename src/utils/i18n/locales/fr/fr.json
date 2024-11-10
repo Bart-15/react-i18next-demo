@@ -2,5 +2,21 @@
   "welcomeMessage_other": "Vous avez {{count}} notifications",
   "welcomeMessage_one": "Vous avez {{count}} notification",
 
-  "transSample": "Hello, <1>user!</1>"
+  "transSample": "Hello, <1>user!</1>",
+
+  "userTable": {
+    "title": "Liste des utilisateurs",
+    "caption": "Liste des utilisateurs",
+    "headers": ["Nom", "Nom d'utilisateur", "Email", "Site web"]
+  },
+
+  "selectLang": {
+    "placeHolder": "Sélectionner la langue...",
+    "noResult": "Aucune langue trouvée"
+  },
+
+  "searcHelperText": {
+    "placeHolder": "Rechercher par nom",
+    "searchResult": "Résultat de la recherche pour `{{searchTerm}}`"
+  }
 }
