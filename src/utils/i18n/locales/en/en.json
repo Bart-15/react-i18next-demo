@@ -1,0 +1,6 @@
+{
+  "welcomeMessage_other": "You have {{count}} notifications",
+  "welcomeMessage_one": "You have {{count}} notification",
+
+  "transSample": "Hello, <1>user!</1>"
+}
